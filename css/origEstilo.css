@@ -164,7 +164,7 @@ overflow:hidden;
 
 /*CORES*/
 .fundoTopo{
-	background-image: url("imagens/topo.png");
+	background-image: url("../imagens/topo.png");
 	background-repeat: repeat;
 }
 .verde {
